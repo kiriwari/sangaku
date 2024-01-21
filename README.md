@@ -15,8 +15,7 @@
 
 <td><img src="sangaku_1.jpg" width="400" alihgn="center"></td>
 
-<td><img src="sangaku_2.jpg" width="200"></td>
-<td><img src="sangaku_3.jpg" width="200"></td>
+<td><img src="sangaku_2.jpg" width="200"></td><td><img src="sangaku_3.jpg" width="200"></td>
 
 ## ビルドに必要なソフトウェア/技能・知識
 
