@@ -13,9 +13,10 @@
 - 手首が水平でリラックスできるチルト 15°、テント7°の傾斜
 - 摩耗パーツのリプレースが比較的容易な設計
 
-<td><img src="sangaku_1.jpg" width="400" alihgn="center"></td>
+</td><img src="sangaku_1.jpg" width="400" alihgn="center"></td>
 
-<td><img src="sangaku_2.jpg" width="200"></td><td><img src="sangaku_3.jpg" width="200"></td>
+<p><img src="sangaku_2.jpg" width="200">
+<img src="sangaku_3.jpg" width="200"></p>
 
 ## ビルドに必要なソフトウェア/技能・知識
 
