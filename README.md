@@ -92,11 +92,11 @@
 
 本キーボードを設計するにあたり影響を受けたプロジェクトです。
 
-[Chortyl Keyboard](github.com/jdart/chortyl)
+[Chortyl Keyboard](https://github.com/jdart/chortyl)
 
-[SpUnLy58 Keyboard](github.com/Giraffasax/SpUnLy58)
+[SpUnLy58 Keyboard](https://github.com/Giraffasax/SpUnLy58)
 
-[Cygnus Keyboard](github.com/juhakaup/keyboards/tree/main/Cygnus)
+[Cygnus Keyboard](https://github.com/juhakaup/keyboards/tree/main/Cygnus)
 
 
 ## ライセンス
